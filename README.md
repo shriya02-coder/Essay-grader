@@ -28,11 +28,11 @@ The objective of the Essay Grader is to assist educators, students, and writers 
 
 1. Clone the repository:
    ```
-   git clone [repository-url]
+   git clone https://github.com/shriya02-coder/Essay-grader.git
    ```
 2. Navigate to the project directory:
    ```
-   cd sophisticated-essay-grader
+   cd Essay-grader
    ```
 3. Install required packages:
    ```
