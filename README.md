@@ -1,4 +1,5 @@
 # Essay Grader
+The Essay Grader is a web application designed to provide comprehensive analysis and grading of essays.
 
 ## Table of Contents
 - [Introduction](#introduction)
