@@ -1,4 +1,4 @@
-# Sophisticated Essay Grader
+# Essay Grader
 
 ## Table of Contents
 - [Introduction](#introduction)
