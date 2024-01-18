@@ -6,7 +6,6 @@ The Essay Grader is a web application designed to provide comprehensive analysis
 - [Objective](#objective)
 - [Features](#features)
 - [Installation](#installation)
-- [Additional Information](#additional-information)
 
 ## Introduction
 
